@@ -1,7 +1,7 @@
 <%-- 
     Document   : login
     Created on : Sep 22, 2019, 12:45:49 PM
-    Author     : RYOLU
+    Author     : WIN 10
 --%>
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
@@ -49,7 +49,7 @@
         <div class="jumbotron row">
           <a href="./register.jsp" class="btn btn-md btn-success" style="float:right" />Register</a><br>
           <center><h2><b>Data Mahasiswa</b></h2>
-          <h4>Modul RSBK - Kelompokx22 OH YEAAAAh</h4></center>
+          <h4>Modul RSBK - Kelompok 16</h4></center>
         </div>
         <div class="row content">
           <div class="col-md-12">

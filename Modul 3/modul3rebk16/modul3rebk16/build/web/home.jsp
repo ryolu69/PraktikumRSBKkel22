@@ -1,7 +1,7 @@
 <%-- 
     Document   : home
     Created on : Sep 22, 2019, 12:45:58 PM
-    Author     : RYOLU
+    Author     : WIN 10
 --%>
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
@@ -45,8 +45,8 @@
 <div class="container">
     <div class="jumbotron row">
 	<center><h2><b>Data Mahasiswa</b></h2>
-	<p>Modul RSBK - Kelompok22 OH YEAH</p>
-        <h5>HOS GELDINIZ, <%=session.getAttribute("loginName")%></h6></center>
+	<p>Modul RSBK - Kelompok 16</p>
+        <h5>Selamat Datang, <%=session.getAttribute("loginName")%></h6></center>
     </div>
     <div class="row content col-md-8 col-md-offset-2">
 	<div class="col-md-3 menu">

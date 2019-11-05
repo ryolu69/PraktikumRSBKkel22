@@ -1,9 +1,3 @@
-<%-- 
-    Document   : error
-    Created on : Nov 4, 2019, 3:55:48 PM
-    Author     : Rio
---%>
-
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
 <html>

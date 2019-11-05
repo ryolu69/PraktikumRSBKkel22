@@ -1,7 +1,7 @@
 <%-- 
     Document   : register
     Created on : Sep 22, 2019, 2:48:05 PM
-    Author     : Rio
+    Author     : RYOLU
 --%>
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
@@ -49,7 +49,7 @@
         <div class="jumbotron row">
           <a href="./login.jsp" class="btn btn-md btn-success" style="float:right" />Login</a><br>
           <center><h2><b>Data Mahasiswa</b></h2>
-          <h4>Modul RSBK - Kelompok22 Merhaba Arkadaslar</h4></center>
+          <h4>Modul RSBK - Kelompok22 OHYEAH!</h4></center>
         </div>
         <div class="row content">
           <div class="col-md-12">
